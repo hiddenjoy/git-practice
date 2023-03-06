@@ -3,14 +3,7 @@
 🦁 안녕하세요 언론정보학과 18학번 권혁범입니다! 얼마 전(**3월 9일**)에 생일이었어요 ㅎㅎ 축하해주세요🎉🎉🎉
 
 - mbti: intp
-  - <span style="color:red">
-
-빨강 글씨
-
-Red Font
-
-</span>
-  - <span style='background-color: yellow'>**I**</span><br> _" 집이 제일 좋아요🏚️ "_
+  - <span style='color:red'>**I**</span><br> _" 집이 제일 좋아요🏚️ "_
   - <span style='background-color: yellow'>**N**</span><br> _" 밸런스게임을 해봅시다 (?) "_
       > - [ ] option 1
       > - [ ] option 2
