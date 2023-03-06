@@ -10,6 +10,9 @@
     > - [x] option 1
     > - [ ] option 2
 
+    > - [x] option 1
+    > - [ ] option 2
+
     - **T**
     - **P**
 
