@@ -33,9 +33,9 @@
 
   > 2일치 숙소만 예약하고 훌렁 떠나버린 포르투갈 여행 사진들 공유합니다🇵🇹
   
-|설명1|설명2|설명3|
+|붉은 지붕🏠과 붉은 일출🌅|노랑 트램🚋|제주도 같은 호카 곶🌊|
 |---|---|---|
-|<img src="./home.jpg" width="200" height="300">|<img src="./home.jpg" width="200" height="300">|<img src="./home.jpg" width="200" height="300">|
+|<img src="./sunrise.jpg" width="200" height="300">|<img src="./tram.jpg" width="200" height="300">|<img src="./roka.jpg" width="200" height="300">|
 
 
 ## [2] 취미: 춤추기!
