@@ -35,7 +35,7 @@
   
 |붉은 지붕🏠과 붉은 일출🌅|노랑 트램🚋|제주도 같은 호카 곶🌊|
 |---|---|---|
-|<img src="./sunrise.jpg" width="200" height="300">|<img src="./tram.jpg" width="200" height="300">|<img src="./roka.jpg" width="200" height="300">|
+|<img src="./sunrise.jpg" width="200" height="300">|<img src="./tram.jpg" width="200" height="300">|<img src="./roca.jpg" width="200" height="300">|
 
 
 ## [2] 취미: 춤추기!
