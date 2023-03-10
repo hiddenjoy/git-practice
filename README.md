@@ -1,7 +1,7 @@
 # 멋샤 11기 권혁범 자기소개 /^0^/
 
 🦁 안녕하세요 언론정보학과 18학번 권혁범입니다! 얼마 전(**3월 9일**)에 생일이었어요 ㅎㅎ 축하해주세요🎉🎉🎉 
-![happy-birthday-firework](https://user-images.githubusercontent.com/88700132/224226978-52ea9be0-8256-4525-b3c3-93b940577894.gif)
+![happy-birthday-firework](https://user-images.githubusercontent.com/88700132/224226978-52ea9be0-8256-4525-b3c3-93b940577894.gif){: width="200" height="200"}
 
 - mbti: intp
 
